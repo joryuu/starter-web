@@ -1,11 +1,11 @@
 # Starter Web Repo
 ##Intro
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
 
 ## Purpose
 
-As stated above this is to show how Git and GitHub work
+As stated above, this is to show how Git and GitHub work.
 
 ##Deployment
 
