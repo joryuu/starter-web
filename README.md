@@ -5,6 +5,11 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-##How To Contribute
+As stated above this is to show how Git and GitHub work
 
 ##Deployment
+
+This is a simple web project; deployment can be on any web server.
+
+##How To Contribute
+
