@@ -4,7 +4,6 @@
 # TEAM
 
     Jason Taylor 	jason@git.training	@awesomejt
-	Sarah Lombardo	sarahlombardo@gmail	@notwitter
 
 # THANKS
 
