@@ -12,6 +12,7 @@ As stated above, this is to show how Git and GitHub work.
 This is a simple web project; deployment can be on any web server.
 
 ##How To Contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 2016 SJL
